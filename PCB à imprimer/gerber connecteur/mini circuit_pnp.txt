@@ -1,0 +1,19 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=mini circuit
+*Date=15:48:25
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;13.7113;-2.06098;90;Bottom;J2
+2;;THT;13.7113;-6.40297;90;Bottom;J1
+3;;;24.5576;-6.32392;0;Bottom;Hole1
+4;;;2.95831;-6.26742;0;Bottom;Hole2

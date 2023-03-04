@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=platine_raies3
+*Date=19:32:34
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;4.78825;-4.47034;0;Bottom;Hole2
+2;;;23.5063;-27.6187;90;Bottom;U1
+3;1µF;100 mil [THT, tantalum];44.8731;-10.6631;0;Bottom;C1
+4;;DIP16 [THT];44.8731;-23.5203;0;Bottom;IC2
+5;;THT;53.7631;-27.3303;0;Bottom;J3
+6;;DIP (Dual Inline) [THT];44.8731;-43.8403;0;Bottom;IC1
+7;;;52.0053;-59.2987;0;Bottom;Hole4
+8;;;23.4292;-16.364;90;Bottom;TXT1
+9;;;52.0053;-4.47034;0;Bottom;Hole1
+10;;;4.78825;-59.2987;0;Bottom;Hole3
+11;100nF;100 mil [THT, multilayer];44.9042;-7.71256;0;Bottom;C2
